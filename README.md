@@ -47,7 +47,9 @@ Former Corporate Finance professional turned Data Engineer. I build scalable dat
 
 ## 📫 Let's Connect
 
-[![LinkedIn](badge-linkedin)](https://www.linkedin.com/in/morgan-madelaine-pro/) [![Email](badge-email)](mailto:morgan.madelaine1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/morgan-madelaine-pro/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:morgan.madelaine1@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/morganmadelaine)
 
 ---
 
