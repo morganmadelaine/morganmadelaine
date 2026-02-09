@@ -31,9 +31,9 @@ Former Corporate Finance professional turned Data Engineer. I build scalable dat
 **Analytics:** Power BI • Data Modeling • ETL/ELT
 
 ## 📌 Featured Projects
-🔹 **[Projet 1 - P7_scoring](https://github.com/morganmadelaine/P7_scoring)** - API Flask pour scoring de crédit avec modèle ML en production | Python • Scikit-learn • Flask • Docker
+🔹 **[Projet 1 - P7_scoring](https://github.com/morganmadelaine/P7_scoring)** - Production-ready credit scoring system with REST API and SHAP explainability | Python • Scikit-learn • Flask • Docker
 
-🔹 **[Projet 2 - my_dbt_project](https://github.com/morganmadelaine/my_dbt_project)** - Data warehouse sur GCP avec piepline dbt end to end et gestion des merges et rebases avec conflits et CI/CD | dbt • BigQuery • GitHub Actions
+🔹 **[Projet 2 - my_dbt_project](https://github.com/morganmadelaine/my_dbt_project)** - End-to-end data warehouse on GCP with dbt transformations, merge conflict management, and CI/CD automation | dbt • BigQuery • GitHub Actions
 
 ## 📫 Let's Connect
 
