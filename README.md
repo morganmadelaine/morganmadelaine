@@ -27,9 +27,9 @@ Former Corporate Finance professional turned Data Engineer. I build scalable dat
 
 <div align="center">
   
-![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MorgvnMdln&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=morganmadelaine&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorgvnMdln&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morganmadelaine&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
